@@ -9,8 +9,6 @@ cd Ivanti_PoC
 
 pip3 install -r requirements.txt
 
----
-
 ## USAGE
 
 ```py
